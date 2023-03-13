@@ -14,7 +14,7 @@
     <annotation>
         <documentation>
             This XSD describes the complex types, simple types common to the entire BRO.
-            Version:2.5.6
+            Version:2.5.6.
             Changes compared to Version:2.5.5:
             - Added CorrectionTypeType and CorrectionRequestType.
             - Definitions grouped by simpleTypes and complexTypes.
@@ -25,7 +25,7 @@
             - standardizedLocation, deliveredLocation optional.
             Version:3.0.2
             - RegistrationObject, DeregisteredObject, Enumeration Wrappers.
-            Version:3.0.3
+            Version:3.0.3.
             - OrganizationType.
             Version:3.0.4
             - Added AbstractDispatchCharacteristicsRequestType.
